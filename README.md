@@ -23,21 +23,6 @@ Our application is tailored for providing details about laptops. The conversatio
 - **Langchain**: Langchain was used so that interaction will LLM's becomes very smooth.
 - **Pinecone vector DB**: Pinecone is used to store vector data from PDF's
 
-## Getting Started
-
-### Prerequisites
-
-- Node.js (>=14.x)
-- npm (>=7.x)
-- Python (>=3.6)
-
-### Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/llm-customer-care-assistant.git
-```
 ## Built By
 - Surabhi Waingankar 😎
 - Tanisha Kanal 🥳
