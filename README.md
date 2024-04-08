@@ -1,10 +1,8 @@
-# GilmoreGirls_Augenblick👯‍♂️
+# LLM Powered Conversational Customer Care Assistant - SahAIta👩‍💻
+Welcome to our conversational customer care assistant web application powered by large language models (LLMs) with sentiment analysis capabilities. This application provides a seamless interface for customer service interactions, aiming to offer accurate product information, address customer queries, and handle complaints efficiently. The chatbot component is integrated with sentiment analysis to ensure positive and professional customer interactions.
+
 # Video
 https://github.com/tanisha0605/GilmoreGirls_Augenblick/assets/144723509/6e089682-d709-4ca0-8df9-8d54a5ab510a
-
-# LLM Powered Conversational Customer Care Assistant - SahAIta👩‍💻
-
-Welcome to our conversational customer care assistant web application powered by large language models (LLMs) with sentiment analysis capabilities. This application provides a seamless interface for customer service interactions, aiming to offer accurate product information, address customer queries, and handle complaints efficiently. The chatbot component is integrated with sentiment analysis to ensure positive and professional customer interactions.
 
 ## Use Case
 
