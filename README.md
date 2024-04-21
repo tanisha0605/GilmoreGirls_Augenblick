@@ -25,8 +25,9 @@ Our application is tailored for providing details about laptops. The conversatio
 - **Pinecone vector DB**: Pinecone is used to store vector data from PDF's
 
 ## Built By
-- Surabhi Waingankar 😎
-- Tanisha Kanal 🥳
+- Tanisha Kanal 
+- Surabhi Waingankar 
+
 
 
 
